@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+font-family:"Verdana",Helvetica,sans-serif;
+background-size: 100% , 100%;
+background-color: black;
+background-image: url("cuprins.jpg");
+background-repeat:no-repeat;
+opacity: 90%;
+}
+img{
+opacity: 100%;
+border-radius:60px;
+ background:100%;
+ width: 300px;
+}
+h1{
+	color: white;
+}
+#titlu {
+	background-color: black;
+	color: white;
+	padding: 45px;
+	text-align: center;
+}
